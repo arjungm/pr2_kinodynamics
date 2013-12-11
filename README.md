@@ -11,6 +11,7 @@ Requirements:
 Problems:
 
 * ROS Fuerte is built against Boost 1.46
+* Odeint (numerical integration) is available only on Boost 1.55
 
 Workaround:
 
