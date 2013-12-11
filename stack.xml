@@ -1,0 +1,8 @@
+<stack>
+<description brief="pr2_kinodynamics">tools for performing kinodynamic stuff with the PR2 arms</description>
+<author>by Arjun Menon</author>
+<license>BSD</license>  
+<review status="unreviewed" notes=""/>
+<!-- need to add the stack dependancies after reorg ... -->
+</stack>
+
